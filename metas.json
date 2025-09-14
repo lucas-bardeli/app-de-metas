@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 2L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "Andar 20 minutos todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Programar por no mínimo 15 minutos por dia em casa",
+    "checked": true
+  },
+  {
+    "value": "Ler um livro",
+    "checked": false
+  }
+]
